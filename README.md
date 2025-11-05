@@ -12,8 +12,11 @@
 
 Перехват трафика интернет-магазина https://intern.demoshopping.ru/, используя сниффер Proxyman, на IOS:
 
+<a href="https://drive.google.com/file/d/1rDLNFD7Z5HUgBUPn01GrmySpJDlaD8DZ/view?usp=sharing">Ещё одна запись экрана</a>, на которой можно увидеть
+
 <ul>
-<li>  <a href="https://drive.google.com/file/d/1rDLNFD7Z5HUgBUPn01GrmySpJDlaD8DZ/view?usp=sharing">Удаление невыбранного товара из корзины</a>Имеется ввиду, выбирая один товар для удаления, удаляется другой</li>
-<li>  <a href="https://drive.google.com/file/d/11XDMttc0E06yuEFsuWL5CMOo6obXQ394/view?usp=drive_link">Пользователь видит картинку в браузере при обращении к тестируемому сайту</a></li>
+<li>
+удаление невыбранного товара из корзины. Имеется ввиду, выбирая один товар для удаления, удаляется другой</li>
+<li>пользователь видит картинку в браузере при обращении к тестируемому сайту</li>
 </ul>
 
